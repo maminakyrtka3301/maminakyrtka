@@ -1,5 +1,6 @@
 # 👨🏻‍💻 About Me:
-FullStack developer.
+FullStack developer, Saint-Petersburg, Russia. 
+24 lvl
 
 # 🌍 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mamina_kyrtka) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mamina_kyrtka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mamina_kyrtka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maminakyrtka3301@gmail.com) 
